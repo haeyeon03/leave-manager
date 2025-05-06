@@ -20,8 +20,8 @@
 
 ## 🎥 시연 영상
 
-👉 [쉬자GO 실행 영상 바로가기](https://youtu.be/wJiX-39jE6A?si=dI2iRURu6qcUJV3p)
-
+👉 [쉬자GO 실행 영상 바로가기]
+(https://youtu.be/MHxiy9FYOhU?si=SSgrDHKeMyqu-30M)
 ---
 
 ## ⚙️ 개발 환경
